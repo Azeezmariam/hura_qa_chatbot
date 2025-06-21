@@ -143,6 +143,8 @@ def load_models():
         repo_id="TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
         filename="mistral-7b-instruct-v0.1.Q4_K_M.gguf",
         revision="main",
+        resume_download=True,  # Enable resuming interrupted downloads
+        local_files_only=False
     )
     
     logger.info("Initializing Mistral-7B model...")
