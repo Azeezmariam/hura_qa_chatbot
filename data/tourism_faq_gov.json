@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What services can I access on the Tourism Regulation platform?",
+    "answer": "You can apply for tourism licenses, check registered tour operators, and find official guides."
+  },
+  {
+    "question": "Who must register as a tour operator in Kigali?",
+    "answer": "Anyone offering guided tours or booking services in Kigali must register with Tourism Regulation Rwanda."
+  },
+  {
+    "question": "What is a tourism entity?",
+    "answer": "A tourism entity is a business involved in tourism services such as restaurants, bars, night clubs, accommodations, tour operators, travel agents, tour guides, tourism information offices, cultural tourism recognized by the Institute of National Museums of Rwanda, or others designated by the Minister."
+  },
+  {
+    "question": "Who can apply for a tourism operating license?",
+    "answer": "Owners or operators of accommodation establishments, restaurants, bars, nightclubs, tour operators, tour guides, travel agents, tourism information centers, museums, and cultural tourism entities can apply for a tourism operating license."
+  },
+  {
+    "question": "When can one access the service?",
+    "answer": "Tourism entities in the pilot phase began submitting license applications in November 2016. After the pilot, other entities will apply in phases following an official call from RDB."
+  },
+  {
+    "question": "What department can one approach if they have a query?",
+    "answer": "You can approach the customer care and regulatory division within the Tourism department of the Rwanda Development Board (RDB)."
+  },
+  {
+    "question": "Why are inspections conducted for tourism licenses?",
+    "answer": "Inspections ensure that tourism entities meet minimum operating requirements before granting a license. After licensing, regular inspections verify compliance with the tourism law. Licenses can be suspended or canceled if violations occur. Entities are notified before licensing and regular inspections, but not for ad-hoc checks. Re-inspections after a failure may incur fees."
+  },
+  {
+    "question": "Once an application is submitted, how long does it take to get a response?",
+    "answer": "RDB processes a complete license application within 15 days. If documents are missing or corrections are needed after inspection, a notification will be sent."
+  },
+  {
+    "question": "What are the standards for tourism entities grading?",
+    "answer": "Accommodation entities and restaurants are graded according to the East African Community (EAC) grading standards, which are available under the 'resources' tab on the official page."
+  },
+  {
+    "question": "What required documents does an applicant need to submit when applying for a tourism operating license?",
+    "answer": "Applicants must submit documents depending on their category. Common requirements include an occupational permit, company registration certificate, vermin proof contract, three months' WASAC water invoices with payment proof, electrical safety certificate from RURA, valid fire insurance and fire safety certificates for establishment and staff, first aid certificates for kitchen, housekeeping, and reception staff, organizational chart, CVs and qualifications of management and relevant staff, health certificates valid within three months, property and liability insurance, membership letters from hospitality or travel associations, safe food handling certificates for kitchen staff, policy manuals on underage supervision and alcohol, valid EIA reports or audits, emergency evacuation plans, liability insurance specific to the operation type, language fluency certificates, valid driver's licenses for tour guides, Ministry of Justice good conduct certificate, vehicle registration and valid insurance for tour vehicles, and subscription to emergency evacuation schemes. Specific documents vary by type of operation such as hotels, lodges, restaurants, tour operators, guides, travel agents, or tourism information centers."
+  },
+  {
+    "question": "What is the application procedure?",
+    "answer": "To obtain a license, an applicant submits an online application to RDB and pays an 80,000 Rwf fee. RDB reviews the application and, if complete, schedules an inspection. An authorized inspector visits the premises, and if the entity passes, the license is granted. If issues are found, the entity must address them and undergo re-inspection before receiving the license."
+  },
+  {
+    "question": "What are the other institutions I need to visit when applying for a license? (E.g. for payment of service costs or to get additional documents)",
+    "answer": "You need to visit RDB for the business registration certificate and valid EIA report, City of Kigali or district offices for the Occupational Permit, authorized hospitals for medical certificates for customer-facing staff, recognized hospitality or tours associations for a membership letter, RURA for the electrical safety certificate, National Police for fire safety certificates, insurance companies for fire and liability insurance, and accredited training institutions for safe food handling certificates."
+  },
+  {
+    "question": "Is there a procedure to appeal if I am not happy with a decision from the board?",
+    "answer": "An entity unhappy with a board decision can appeal within 30 days of notification. The Appeal Committee, including representatives from RDB, MINICOM, and the private sector, will review and decide within 30 days. The appellant will be invited to attend the appeal hearing."
+  },
+  {
+    "question": "Is there a refund procedure? If Yes how is a refund processed?",
+    "answer": "The license application fee is non-refundable, so no refund procedure exists for it."
+  },
+  {
+    "question": "Is there any additional information regarding this service that is useful to know?",
+    "answer": "All tourism entities must have a tourism license to operate and are subject to regular and surprise inspections. While tour operators, guides, and travel agents are not graded, hotels and restaurants receive a grading every two years. An annual list of licensed and graded entities is published on the RDB website."
+  },
+  {
+    "question": "What other relevant documents do I need to consult?",
+    "answer": "Consult the Tourism Law published in July 2014, ministerial orders on licensing and grading, the EAC grading standards, definitions of tourism entities, and inspection checklists."
+  },                  
+  {
+    "question": "What are the consequences for operating a tourism entity without a valid license?",
+    "answer": "Operating a tourism entity without a valid license is a violation of tourism law and is subject to legal penalties as defined by the relevant authorities."
+  },
+  {
+    "question": "For how long will a tourism operating license be valid?",
+    "answer": "A tourism operating license in Rwanda does not expire, but the business must pass annual inspections to maintain it. The Rwanda Development Board (RDB) may suspend or cancel the license if the operator fails to meet minimum standards or violates the Tourism Law."
+  },
+  {
+    "question": "What are the grounds for suspending or cancelling a tourism license?",
+    "answer": "A license can be suspended or cancelled if the operator violates tourism laws, breaches license conditions, or endangers the environment, health, or public safety. In most cases, the Board must give a 60-day written notice, but immediate cancellation can occur if public safety is at serious risk."
+  },
+  {
+    "question": "What are the grounds for suspending or cancelling a license?",
+    "answer": "A license may be suspended or cancelled if the holder violates provisions of the law. Such violations can result in an administrative fine ranging from 100,000 Frw to 5,000,000 Frw, without prejudice to the penal code."
+  },
+  {
+    "question": "Is there an application fee for the tourism operating license?",
+    "answer": "Yes, the application fee is RWF 80,000. The application will not be processed until the fee is paid."
+  },
+  {
+    "question": "How do I pay for a tourism operating licence fee?",
+    "answer": "To pay for a tourism operating licence in Rwanda, submit the required documents and pay a non-refundable fee of RWF 80,000. Payment can be made via direct deposit to RDB's Bank of Kigali account (00281460-96) or online through Irembo using a debit or credit card. After payment, submit the proof of payment with your application and present the original slip during the site inspection. Once the application and inspection are complete, the licence can be issued."
+  }    
+]
