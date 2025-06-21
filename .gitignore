@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Data files
+vector_db/
+models/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Render specific
+render.yaml
