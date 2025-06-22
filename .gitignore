@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 venv/
 .env
+.DS_Store 
 
 # Data files
 vector_db/
